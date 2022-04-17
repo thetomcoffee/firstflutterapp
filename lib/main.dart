@@ -1,5 +1,6 @@
 // 2022-04-03  orginal code from new flutter app
-//
+//  see  https://docs.flutter.dev/get-started/test-drive?tab=vscode
+
 // import 'package:flutter/material.dart';
 
 // void main() {
